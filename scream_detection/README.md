@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 ```
 
 ## 데이터 다운로드 가이드
-데이터를 다운로드 받을 수 있는 2가지 방법입니다.
+데이터(약 3GB)를 다운로드 받을 수 있는 2가지 방법입니다.
 
 1. Git LFS 설치
    1. Git LFS 설치하기
@@ -28,5 +28,5 @@ pip3 install -r requirements.txt
 2. Google Drive 에서 직접 다운로드
    1. https://drive.google.com/drive/folders/1WNjEaImJlm-7qmoRgOxRePDYQj7aQXLc?usp=sharing 접속
    2. `data` 디렉토리 다운로드
-      <img src="![60511C24-D15E-4DBF-A3E2-2852BF4EE858](https://user-images.githubusercontent.com/36983960/127764561-ecc337fa-9b81-429a-8448-b98a4f83b65b.png)" alt="Google Drive for Deep Learning with Projects" style="zoom:50%;" />
+      <img src="![60511C24-D15E-4DBF-A3E2-2852BF4EE858](https://user-images.githubusercontent.com/36983960/127766342-ca3aef17-e076-46af-ab4b-aae5c1b138ba.png)" alt="Google Drive for Deep Learning with Projects" style="zoom:50%;" />
    3. `data` 디렉토리 `scream_detection` 프로젝트로 이동
