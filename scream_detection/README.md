@@ -32,5 +32,5 @@ pip3 install -r requirements.txt
 2. Google Drive 에서 직접 다운로드
    1. https://drive.google.com/drive/folders/1WNjEaImJlm-7qmoRgOxRePDYQj7aQXLc?usp=sharing 접속
    2. `data` 디렉토리 다운로드
-      <img src="![60511C24-D15E-4DBF-A3E2-2852BF4EE858](https://user-images.githubusercontent.com/36983960/127766342-ca3aef17-e076-46af-ab4b-aae5c1b138ba.png)" alt="Google Drive for Deep Learning with Projects" style="zoom:50%;" />
+      <img src="![60511C24-D15E-4DBF-A3E2-2852BF4EE858](https://user-images.githubusercontent.com/36983960/127766582-3cea0f9c-15ab-4be6-a606-c0702ed1af2d.png)" alt="Google Drive for Deep Learning with Projects" style="zoom:50%;" />
    3. `data` 디렉토리 `scream_detection` 프로젝트로 이동
