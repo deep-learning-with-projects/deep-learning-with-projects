@@ -17,13 +17,17 @@ pip3 install -r requirements.txt
       1. [window](https://hengbokhan.tistory.com/20)
       2. Mac - `brew install git-lfs`
       3. [Linux](https://docs.github.com/en/github/managing-large-files/versioning-large-files/installing-git-large-file-storage) 에서 Linux 탭 참조
-   2. 프로젝트에서 git lfs 설치
+   2. Scream Detection 프로젝트 디렉토리로 이동
       ```bash
-      git lfs install
+      $ cd scream_detection
       ```
-   3. 파일 가져오기
+   3. 프로젝트에서 git lfs 설치
       ```bash
-      git lfs pull
+      $ git lfs install
+      ```
+   4. 파일 가져오기
+      ```bash
+      $ git lfs pull
       ```
 2. Google Drive 에서 직접 다운로드
    1. https://drive.google.com/drive/folders/1WNjEaImJlm-7qmoRgOxRePDYQj7aQXLc?usp=sharing 접속
